@@ -1,1 +1,2 @@
 My third file in gitpractice directory.
+I can see that!
