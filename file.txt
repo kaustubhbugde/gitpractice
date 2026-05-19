@@ -1,2 +1,3 @@
 I cloned gitpractice named repoaitory successfully.
 I can see this file on my GitHub account, thanks.
+I can see you have made changes.
